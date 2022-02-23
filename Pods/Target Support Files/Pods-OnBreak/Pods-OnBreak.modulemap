@@ -1,0 +1,6 @@
+framework module Pods_OnBreak {
+  umbrella header "Pods-OnBreak-umbrella.h"
+
+  export *
+  module * { export * }
+}

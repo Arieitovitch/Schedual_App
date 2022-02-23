@@ -1,0 +1,6 @@
+framework module Pods_OnBreak_OnBreakUITests {
+  umbrella header "Pods-OnBreak-OnBreakUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
